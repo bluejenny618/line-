@@ -1,0 +1,773 @@
+{
+  "type": "flex",
+  "altText": "尋找的公園",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "size": "kilo",
+        "hero": {
+          "type": "image",
+          "url": "https://parks.taipei/parks/images/C2-1.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://crockerpark.com/wp-content/uploads/DirectoryIcon.png",
+                  "size": "xl"
+                },
+                {
+                  "type": "text",
+                  "text": "文光公園",
+                  "weight": "bold",
+                  "size": "20px",
+                  "margin": "md",
+                  "offsetStart": "none"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "地址",
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "仁愛路二段65巷1弄口",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5
+                    }
+                  ],
+                  "margin": "4px",
+                  "paddingTop": "4px",
+                  "paddingBottom": "4px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "運動器材",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "單人漫步機、雙人下肢康復器、扭腰器、手部訓練器、支撐前進、單槓",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "margin": "3px",
+                  "paddingTop": "3px",
+                  "paddingBottom": "3px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "遊樂器材",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "組合遊具",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "服務設施",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "無服務設施",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "xl",
+          "paddingAll": "15px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "地圖",
+                "uri": "http://maps.google.com/maps?q=loc:25.039039612,121.53085327"
+              },
+              "height": "sm",
+              "margin": "md"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "postback",
+                "label": "交通資訊",
+                "text": "交通資訊",
+                "data": "交通資訊&公車路線搭37、222、261、270、630、651至仁愛臨沂街口"
+              },
+              "height": "sm",
+              "margin": "md"
+            }
+          ]
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "kilo",
+        "hero": {
+          "type": "image",
+          "url": "https://parks.taipei/parks/images/C2-1.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://crockerpark.com/wp-content/uploads/DirectoryIcon.png",
+                  "size": "xl"
+                },
+                {
+                  "type": "text",
+                  "text": "仁愛圓環",
+                  "weight": "bold",
+                  "size": "20px",
+                  "margin": "md",
+                  "offsetStart": "none"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "地址",
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "仁愛路與敦化南路交會處之圓環",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5
+                    }
+                  ],
+                  "margin": "4px",
+                  "paddingTop": "4px",
+                  "paddingBottom": "4px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "運動器材",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "無運動設施",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "margin": "3px",
+                  "paddingTop": "3px",
+                  "paddingBottom": "3px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "遊樂器材",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "無遊樂設施",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "服務設施",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "無服務設施",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "xl",
+          "paddingAll": "15px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "地圖",
+                "uri": "http://maps.google.com/maps?q=loc:25.037630081,121.54968262"
+              },
+              "height": "sm",
+              "margin": "md"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "postback",
+                "label": "交通資訊",
+                "text": "交通資訊",
+                "data": "交通資訊&(巴士)292, 311, 905, 仁愛幹線(原263), 敦化幹線(原285)\r\n(地鐵)板南線 BANNAN LINE, 淡水信義線 TAMSUI -XINYI LINE"
+              },
+              "height": "sm",
+              "margin": "md"
+            }
+          ]
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "kilo",
+        "hero": {
+          "type": "image",
+          "url": "https://parks.taipei/parks/images/C2-1.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://crockerpark.com/wp-content/uploads/DirectoryIcon.png",
+                  "size": "xl"
+                },
+                {
+                  "type": "text",
+                  "text": "民輝公園",
+                  "weight": "bold",
+                  "size": "20px",
+                  "margin": "md",
+                  "offsetStart": "none"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "地址",
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "仁愛路3段5巷3弄18號",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5
+                    }
+                  ],
+                  "margin": "4px",
+                  "paddingTop": "4px",
+                  "paddingBottom": "4px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "運動器材",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "肩關節訓練器、雙人浪板、漫步機、推拉復健器、雙人伸腰健身器",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "margin": "3px",
+                  "paddingTop": "3px",
+                  "paddingBottom": "3px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "遊樂器材",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "組合遊具",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "服務設施",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "洗手台",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "xl",
+          "paddingAll": "15px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "地圖",
+                "uri": "http://maps.google.com/maps?q=loc:25.039510727,121.53505707"
+              },
+              "height": "sm",
+              "margin": "md"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "postback",
+                "label": "交通資訊",
+                "text": "交通資訊",
+                "data": "交通資訊&捷運路線:搭中和新蘆線或板南線至忠孝新生捷運站6號出口，公車路線搭226至捷運仁愛新生路口"
+              },
+              "height": "sm",
+              "margin": "md"
+            }
+          ]
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      },
+      {
+        "type": "bubble",
+        "size": "kilo",
+        "hero": {
+          "type": "image",
+          "url": "https://parks.taipei/parks/images/C2-1.jpg",
+          "size": "full",
+          "aspectMode": "cover",
+          "aspectRatio": "320:213"
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "icon",
+                  "url": "https://crockerpark.com/wp-content/uploads/DirectoryIcon.png",
+                  "size": "xl"
+                },
+                {
+                  "type": "text",
+                  "text": "敦仁公園",
+                  "weight": "bold",
+                  "size": "20px",
+                  "margin": "md",
+                  "offsetStart": "none"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "margin": "lg",
+              "spacing": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "地址",
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "敦化南路1段236巷與仁愛路4段71巷交口",
+                      "wrap": true,
+                      "color": "#666666",
+                      "size": "sm",
+                      "flex": 5
+                    }
+                  ],
+                  "margin": "4px",
+                  "paddingTop": "4px",
+                  "paddingBottom": "4px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "運動器材",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "單槓、接力環、腰背按摩器",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ],
+                  "margin": "3px",
+                  "paddingTop": "3px",
+                  "paddingBottom": "3px"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "遊樂器材",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "攀爬架、沙坑、跳樁組合、鞦韆、滑梯、爬繩",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [
+                    {
+                      "type": "box",
+                      "layout": "baseline",
+                      "spacing": "sm",
+                      "contents": [
+                        {
+                          "type": "text",
+                          "text": "服務設施",
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 2
+                        },
+                        {
+                          "type": "text",
+                          "text": "無服務設施",
+                          "wrap": true,
+                          "color": "#666666",
+                          "size": "sm",
+                          "flex": 5
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "spacing": "xl",
+          "paddingAll": "15px"
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "button",
+              "action": {
+                "type": "uri",
+                "label": "地圖",
+                "uri": "http://maps.google.com/maps?q=loc:25.0404019091231,121.546908697084"
+              },
+              "height": "sm",
+              "margin": "md"
+            },
+            {
+              "type": "button",
+              "action": {
+                "type": "postback",
+                "label": "交通資訊",
+                "text": "交通資訊",
+                "data": "交通資訊&捷運路線:搭文湖線或板南線至忠孝復興捷運站2號出口，公車路線搭204、212、232、262、278、299、521、600、605、903、919、忠孝幹線至頂好市場"
+              },
+              "height": "sm",
+              "margin": "md"
+            }
+          ]
+        },
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        }
+      }
+    ]
+  }
+}
