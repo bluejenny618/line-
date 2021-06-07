@@ -6,7 +6,7 @@
 <img src="/images/qrcode.png" alt="" style="width:128px;height:128px;">
 <h2>使用說明</h2>
 
-<h3>1.輸入要查詢的路名、鄰里或是傳送現在位置，就會產稱附近的公園及設施資訊</h3>
+<h3>1.輸入要查詢的路名、鄰里或是傳送現在位置，就會產生附近的公園及設施資訊</h3>
 <br>
 <img src="/images/LINE_capture_locatic.JPG" alt=""  width="450px" height="600px">
 <img src="/images/LINE_capture_street.JPG" alt=""  width="450px" height="600px">
