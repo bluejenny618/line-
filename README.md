@@ -8,8 +8,8 @@
 
 <h3>1.輸入要查詢的路名、鄰里或是傳送現在位置，就會產生附近的公園及設施資訊</h3>
 <br>
-<img src="/images/LINE_capture_locatic.JPG" alt=""  width="20%" height="20%">
-<img src="/images/LINE_capture_street.JPG" alt=""  width="20%" height="20%">
+<img src="/images/LINE_capture_locatic.JPG" alt=""  width="50%" height="50%">
+<img src="/images/LINE_capture_street.JPG" alt=""  width="50%" height="50%">
 <h3>2.點選地圖會跳google map視窗</h3>
 <br>
 <img src="/images/IMG_0379.PNG" alt=""  width="450px" height="600px">
